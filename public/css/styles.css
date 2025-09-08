@@ -172,14 +172,14 @@ footer {
 /* Responsive styles for larger screens */
 @media screen and (min-width: 768px) {
   html {
-    background-image: url("../public/images/site/small_check.png");
+    background-image: url("../images/site/small_check.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
   }
 
   body {
-    margin: 15px 75px;
+    margin: 15px 70px;
     background-color: #fff;
     border: 3px solid #1515c0;
     border-radius: 8px;
